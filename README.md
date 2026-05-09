@@ -1,41 +1,18 @@
-# matcha.pe-barista-bot
 
-### This is my first Python terminal project — a simple but interactive matcha café ordering system built using loops, conditions, and user input. 
-### A cozy terminal café experience powered by Python
+# ☕ matcha.pe-barista-bot
 
-</div>
+### My first Python terminal project — a simple but interactive matcha café ordering system built using loops, conditions, and user input.
 
----
+### A cozy terminal café experience powered by Python ☕
 
-## ✨ About
+# ✨ About
 
-**matcha.pe-barista-bot** is my first Python project — a terminal-based café ordering system that simulates a friendly matcha shop experience.
+matcha.pe-barista-bot is my first Python project.
+It’s a small terminal-based café system where users can order matcha drinks and interact with a simple CLI café experience.
 
-It blends:
-- 🧠 logic (loops, conditions)
-- ⌨️ user interaction (CLI input)
-- 💡 beginner programming structure
-- ☕ aesthetic café vibes inside the terminal
+It helped me practice:
 
----
-
-## 🍵 Features
-
-- 👋 Personalized user greeting system  
-- ☕ Interactive matcha menu  
-- 🧾 Dynamic order selection  
-- 💰 Automatic price calculation  
-- ⚠️ Input validation (error handling)  
-- 🚚 Delivery / pickup simulation  
-- ⏳ Loading animations for realism  
-
----
-
-## 🧠 What I learned
-
-```txt id="learn"
-- Python loops (while / for)
-- Conditional logic (if / elif / else)
-- try / except error handling
-- String formatting & input handling
-- Building a full CLI experience from scratch
+🧠 loops and conditions
+⌨️ user input
+⚠️ basic error handling
+🖥️ building a full terminal program from scratch
