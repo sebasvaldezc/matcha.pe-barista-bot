@@ -20,7 +20,7 @@ Some things I want to add later:
 4. Different drink sizes and add-ons
 5. GUI version with Tkinter
 6. Save orders into files
-7. Feel free to improve the code, add features, fix bugs, or make your own version of it.  
-8. Pull requests and suggestions are always welcome :)
+
+# Feel free to improve the code, add features, fix bugs or Pull requests and suggestions are always welcome :)
 
 I’m still learning, so feedback means a lot.
