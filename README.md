@@ -1,7 +1,7 @@
 
 # ☕ matcha.pe-barista-bot
 ### A cozy terminal café experience powered by Python 
-
+‎ <!-- invisible space -->
 # ✨ About
 matcha.pe-barista-bot is my first Python project.
 It’s a small terminal-based café system where users can order matcha drinks and interact with a simple CLI café experience.
