@@ -1,4 +1,4 @@
-#🍵 Matcha.PE – My First Python Project
+# 🍵 Matcha.PE – My First Python Project
 
 A simple and fun command-line ordering system made with Python.
 This was my first Python project, and I built it to practice:
