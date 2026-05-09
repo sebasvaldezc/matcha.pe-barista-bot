@@ -20,5 +20,6 @@
 5. GUI version with Tkinter
 6. Save orders into files
 
-> Feel free to improve the code, add features, fix bugs or Pull requests and suggestions are always welcome :)
->>I’m still learning, so feedback means a lot.
+> Feel free to improve the code, add features, fix bugs or submit pull requests.
+>
+>> I’m still learning, so feedback means a lot.
