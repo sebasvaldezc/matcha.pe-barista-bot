@@ -10,7 +10,7 @@
 - [x] Simulating a real ordering experience
 - [ ] Adding more in progress...
 ‎<br>
-<br>
+</br>
 # 🚀 Future Improvements
 ### Some things I want to add later:
 
@@ -21,7 +21,7 @@
 5. GUI version with Tkinter
 6. Save orders into files
 ‎<br>
-<br>
+</br>
 > Feel free to improve the code, add features, fix bugs or submit pull requests.
 >
 >> I’m still learning, so feedback means a lot.
