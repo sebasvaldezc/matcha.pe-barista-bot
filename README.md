@@ -14,3 +14,9 @@ This was my first Python project, and I built it to practice:
 
 The project is inspired by a fictional matcha store called Matcha.PE.
 
+Welcome to Matcha.PE
+
+█▀▄▀█ ▄▀█ ▀█▀ █▀▀ █░█ ▄▀█ ░  █▀█ █▀▀
+█░▀░█ █▀█ ░█░ █▄▄ █▀█ █▀█ ▄  █▀▀ ██▄
+
+Your one stop shop for all things with matcha!
