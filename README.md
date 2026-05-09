@@ -1,5 +1,5 @@
 # 🍵 Matcha.PE – My First Python Project
-## A simple and fun command-line ordering system made with Python. This was my first Python project, and I built it to practice:
+### A simple and fun command-line ordering system made with Python. This was my first Python project, and I built it to practice:
 
 - [x] User input
 - [x] while loops
@@ -11,7 +11,7 @@
 - [ ] Adding more in progress...
 
 # 🚀 Future Improvements
-## Some things I want to add later:
+### Some things I want to add later:
 
 1. Prices stored in dictionaries
 2. Receipt system
