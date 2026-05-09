@@ -9,7 +9,7 @@
 - [x] ASCII art and terminal design
 - [x] Simulating a real ordering experience
 - [ ] Adding more in progress...
-
+‎ <!-- invisible space -->
 # 🚀 Future Improvements
 ### Some things I want to add later:
 
@@ -19,7 +19,7 @@
 4. Different drink sizes and add-ons
 5. GUI version with Tkinter
 6. Save orders into files
-
+‎ <!-- invisible space -->
 > Feel free to improve the code, add features, fix bugs or submit pull requests.
 >
 >> I’m still learning, so feedback means a lot.
