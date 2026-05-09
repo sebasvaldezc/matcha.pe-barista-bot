@@ -12,7 +12,8 @@ It’s a small terminal-based café system where users can order matcha drinks a
 
 It helped me practice:
 
-🧠 loops and conditions
-⌨️ user input
-⚠️ basic error handling
-🖥️ building a full terminal program from scratch
+1. 🧠 loops and conditions
+2. ⌨️ user input
+3. ⚠️ basic error handling
+4. 🖥️ building a full terminal program from scratch
+
